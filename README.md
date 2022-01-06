@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Adel
-- 🌱 3rd year Computer Science student at Edinburgh Napier University
+- 🌱 BSc Computer Science student at Edinburgh Napier University
 - 👀 I’m looking for any CS related internships or colaborations on projects
