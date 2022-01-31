@@ -1,6 +1,6 @@
 [![Header](https://github.com/adel2924/adel2924/blob/main/racoonlofi.gif "Header")](https://adelluong.com/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👋 Hi, I’m Adel
 - 🌱 BSc Hons Computer Science student at Edinburgh Napier University
