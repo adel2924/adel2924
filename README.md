@@ -3,7 +3,7 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👋 Hi, I’m Adel
-- 🌱 BSc Hons Computer Science student at Edinburgh Napier University
+- 🌱 BSc Hons Computer Science student
 - 👀 I’m looking for any CS related internships or colaborations on projects
 
 ## &#x1f4c8; GitHub Stats
